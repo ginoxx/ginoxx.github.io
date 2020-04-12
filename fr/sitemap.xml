@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/fr/index.html</loc>
+    <loc>https://ginoxx.github.io/fr/index.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/index.html"
+                href="https://ginoxx.github.io/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/index.html"
+                href="https://ginoxx.github.io/fr/index.html"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://ginoxx.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://ginoxx.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://ginoxx.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://ginoxx.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://ginoxx.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://ginoxx.github.io/fr/tags/"
                 />
   </url>
   

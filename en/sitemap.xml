@@ -3,91 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/tags/about/</loc>
+    <loc>https://ginoxx.github.io/tags/about/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/me/</loc>
+    <loc>https://ginoxx.github.io/about/me/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/work/</loc>
+    <loc>https://ginoxx.github.io/about/work/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://ginoxx.github.io/about/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/base/</loc>
+    <loc>https://ginoxx.github.io/about/base/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/general/</loc>
+    <loc>https://ginoxx.github.io/tags/general/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://ginoxx.github.io/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://ginoxx.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://ginoxx.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/posts/2019/08/welcome-to-my-new-nlog/</loc>
+    <loc>https://ginoxx.github.io/posts/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/2019/01/hello-friend/</loc>
+    <loc>https://ginoxx.github.io/tags/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ginoxx.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ginoxx.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ginoxx.github.io/posts/2019/08/welcome-to-my-new-nlog/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginoxx.github.io/posts/2019/01/hello-friend/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/index.html</loc>
+    <loc>https://ginoxx.github.io/index.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/index.html"
+                href="https://ginoxx.github.io/fr/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/index.html"
+                href="https://ginoxx.github.io/index.html"
                 />
   </url>
   

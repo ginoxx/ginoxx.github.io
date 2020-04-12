@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Gino Pelliccia</title>
-        <link>https://example.com/posts/</link>
+        <link>https://ginoxx.github.io/posts/</link>
         <description>Recent content in Posts on Gino Pelliccia</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ginoxx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Welcome to my new nlog</title>
-            <link>https://example.com/posts/2019/08/welcome-to-my-new-nlog/</link>
+            <link>https://ginoxx.github.io/posts/2019/08/welcome-to-my-new-nlog/</link>
             <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
             
-            <guid>https://example.com/posts/2019/08/welcome-to-my-new-nlog/</guid>
+            <guid>https://ginoxx.github.io/posts/2019/08/welcome-to-my-new-nlog/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title>Hello Friend</title>
-            <link>https://example.com/posts/2019/01/hello-friend/</link>
+            <link>https://ginoxx.github.io/posts/2019/01/hello-friend/</link>
             <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
             
-            <guid>https://example.com/posts/2019/01/hello-friend/</guid>
+            <guid>https://ginoxx.github.io/posts/2019/01/hello-friend/</guid>
             <description>I found the energy to build this small thing as a way to preserve my hands-on experience with Azure after a very tough week working with it&amp;hellip;more on that later..
  Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.</description>
             <content type="html"><![CDATA[<p>I found the energy to build this small thing as a way to preserve my hands-on experience with Azure after a very tough week working with it&hellip;more on that later..</p>
