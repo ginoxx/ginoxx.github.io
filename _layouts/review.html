@@ -6,6 +6,7 @@ layout: default
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title }}</h1>
         <p class="post-meta">Written by {{ page.author }} ({{ page.year }}) · Read on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time></p>
+        <p>Tags: {{ page.tags }}</p>
     </header>
     <figure class="book-cover">
             {% if page.cover %}
