@@ -6,6 +6,8 @@ olid: OL26374818M
 title: "Our Mathematical Universe"
 author: Max Tegmark
 year: 2014
+tags: science, multiverse, physics
+tag: popular sciences
 
 ---
 

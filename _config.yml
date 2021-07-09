@@ -21,7 +21,7 @@
 title: Gino's Books
 email: hello@ginosbooks.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Gino's Books reviews and thoughts for personal and mostly private use.
+  Gino's Books reviews and thoughts for personal and mostly private use.\n
   And a little bit of anything else that happens.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ginoxx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
