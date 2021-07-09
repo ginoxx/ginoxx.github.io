@@ -7,4 +7,4 @@ permalink: /books/
 
 Notes on books and whereabouts
 
-*Pro tip: add a `list_title:` to this page's [front matter](https://jekyllrb.com/docs/frontmatter/) to override the default "Latest reviews"!*
+Old & New
