@@ -2,7 +2,7 @@
 
 layout: review
 date: 2018-08-28 12:25:13 +0700
-isbn: 9780241954638
+olid: OL26374818M
 title: "Our Mathematical Universe"
 author: Max Tegmark
 year: 2014
