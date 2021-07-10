@@ -24,10 +24,13 @@ layout: default
 {% endif %}
 Why not
     <ul class="tags">
-        {% for tag in books.tags %}
-            {% assign t = tag | first %}
-                {% assign books = tag | last %}
-                <li>{{t | downcase | replace:" ","-" }} has {{ books | size }} books</li>
-        {% endfor %}
+       {%  for tag in books.tags %}
+  {% assign tag_slug = tag | slugify: "raw" %}
+    <li>
+        <a class="tag-link" href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}rel="category tag">
+    #{{tag}}</a>
+    </li>
+    {% endfor %}
     </ul>
+
 
