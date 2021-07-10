@@ -36,6 +36,7 @@ plugins:
 # Collections
 collections:
     books:
+        tags: true
         output: true
         permalink: /:collection/:title/
         
