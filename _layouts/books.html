@@ -24,10 +24,10 @@ layout: default
 {% endif %}
 Why not
     <ul class="tags">
-        {% for tag in site.tags %}
+        {% for tag in books.tags %}
             {% assign t = tag | first %}
-                {% assign posts = tag | last %}
-                <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+                {% assign books = tag | last %}
+                <li>{{t | downcase | replace:" ","-" }} has {{ books | size }} books</li>
         {% endfor %}
     </ul>
 

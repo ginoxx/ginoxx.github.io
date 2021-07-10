@@ -1,7 +1,7 @@
 ---
 
 layout: review
-date: 2018-08-28 12:25:13 +0700
+date: 2021-05-30 12:25:13 +0700
 olid: OL26374818M
 title: "Our Mathematical Universe"
 author: Max Tegmark
