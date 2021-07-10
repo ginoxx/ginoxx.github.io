@@ -38,6 +38,10 @@ collections:
     books:
         output: true
         permalink: /:collection/:title/
+        
+    tags:
+        output: true
+        permalink: tags/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
