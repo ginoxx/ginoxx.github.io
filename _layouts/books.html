@@ -22,7 +22,9 @@ layout: default
         {% endfor %}
     </ul>
 {% endif %}
-Why not
+Why not 
+From books: {{ books.tags }}
+From page: {{ page.tags }}
     <ul class="tags">
        {%  for tag in books.tags %}
   {% assign tag_slug = tag | slugify: "raw" %}
