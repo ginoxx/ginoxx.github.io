@@ -18,10 +18,33 @@ layout: default
                 <h3>
                     <a class="post-link" href="{{ book.url | relative_url }}">{{ book.title }} — {{ book.author }}</a>
                 </h3>
-                T: {{ book.tags }} 
+                T; {{ book.tag }} 
             </li>
         {% endfor %}
     </ul>
 {% endif %}
+Why not 
+From books: {{ books.tags }}
+From page: {{ page.tags }}
+    <ul class="tags">
+       {%  for tag in books.tags %}
+  {% assign tag_slug = tag | slugify: "raw" %}
+    <li>
+        <a class="tag-link" href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}rel="category tag">
+    #{{tag}}</a>
+    </li>
+    {% endfor %}
+    </ul>
+    
+----
+New:
+{% for books in site.books %}
+  <h2>
+    <a href="{{ book.title }}">
+      {{ books.tags }}
+    </a>
+  </h2>
+  <p>{{ books.content | markdownify }}</p>
+{% endfor %}
 
 
