@@ -34,5 +34,16 @@ From page: {{ page.tags }}
     </li>
     {% endfor %}
     </ul>
+    
+----
+New:
+{% for books in site.books %}
+  <h2>
+    <a href="{{ staff_member.url }}">
+      {{ books.tags }}
+    </a>
+  </h2>
+  <p>{{ books.content | markdownify }}</p>
+{% endfor %}
 
 
