@@ -6,8 +6,8 @@ olid: OL26374818M
 title: "Our Mathematical Universe"
 author: Max Tegmark
 year: 2014
-tags: science, multiverse, physics
-tag: popular sciences
+tags: [science, multiverse, physics, popular science]
+*tag: popular sciences
 
 ---
 
@@ -21,7 +21,7 @@ Main points I appreciated and found best explained:
 - CMB
 
 Plus:
-- A Good overview of the Standard Model, with nice explainatory pictures.
+- A Good overview of the Standard Model, with nice explainatory pictures. I found a better one only in Sean's Carrol (LINK here and title)
 
 Minus:
 - pumped up and auto-referential at times.
