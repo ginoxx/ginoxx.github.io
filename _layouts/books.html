@@ -19,6 +19,10 @@ layout: default
                     <a class="post-link" href="{{ book.url | relative_url }}">{{ book.title }} — {{ book.author }}</a>
                 </h3>
                  T: {{ book.tags }} 
+                 --
+                 {%  for tag in books.tags %}
+                    <a href="{{ book.title }}">{{ book.tag }}</a></br>
+                 {% endfor %}
             </li>
         {% endfor %}
     </ul>
@@ -27,6 +31,7 @@ Why not
 {% assign books=site.books %}
 From books: {{ books.tags }}
 From page: {{ page.tags }}
+<!--
     <ul class="tags">
        {%  for tag in books.tags %}
   {% assign tag_slug = tag | slugify: "raw" %}
@@ -48,4 +53,4 @@ New:
   <p>{{ books.content | markdownify }}</p>
 {% endfor %}
 
-
+-->
