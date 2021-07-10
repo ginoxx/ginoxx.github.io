@@ -18,12 +18,13 @@ layout: default
                 <h3>
                     <a class="post-link" href="{{ book.url | relative_url }}">{{ book.title }} — {{ book.author }}</a>
                 </h3>
-                T; {{ book.tag }} 
+                 T: {{ book.tags }} 
             </li>
         {% endfor %}
     </ul>
 {% endif %}
 Why not 
+{% assign books=site.books %}
 From books: {{ books.tags }}
 From page: {{ page.tags }}
     <ul class="tags">
