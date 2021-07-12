@@ -30,11 +30,11 @@ github_username:
 
 # Build settings
 theme: minima
+#theme: jekyll-theme-hacker
+#theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
-minima:  
-  skin: dark
 
 # Collections
 collections:

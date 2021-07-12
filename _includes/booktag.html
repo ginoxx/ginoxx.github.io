@@ -1,0 +1,15 @@
+<h2>Browse by tag</h2>
+
+{% assign tags =  site.books | map: 'tags' | join: ','  | split: ',' | uniq %}
+{% for tag in tags %}
+  <a href={{ site.baseurl | append: "/tags/" | append: tag | append: "/" }}><code class="highligher-rouge"><nobr>{{ tag| replace: "-", " "  }}</nobr></code></a>
+  <!--
+  <ul>
+  {% for book in site.books %}
+    {% if book.tags contains tag %}
+    <li><a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+  -->
+{% endfor %}
