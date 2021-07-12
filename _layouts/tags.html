@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div>
+  <h1>Books tagged with "{{page.tag-name}}"</h1>
+  <ul style='padding-top: 16px;'>
+  
+  {% for book in site.books %}
+    {% if book.tags contains page.tag-name %}
+      <li><a href="{{ book.url }}">{{ book.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  
+  </ul>
+  <p>
+  <a href={{ site.baseurl | append: "/feeds/" | append: page.tag-name | append: ".xml" }}>View RSS feed</a>
+  </p>
+</div>

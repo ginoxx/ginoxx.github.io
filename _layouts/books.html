@@ -18,19 +18,16 @@ layout: default
                 <h3>
                     <a class="post-link" href="{{ book.url | relative_url }}">{{ book.title }} — {{ book.author }}</a>
                 </h3>
-                 T: {{ book.tags }} 
-                 --
-                 {%  for tag in books.tags %}
-                    1 <a href="{{ book.title }}">{{ book.tag }}</a></br>
+                <!-- add book tags GP 10.11.2021 -->
+                 {%  for tag in book.tags %}
+            
+                <a href={{ site.baseurl | append: "/tags/" | append: tag | append: "/" }}>{{tag| replace: "-", " " }}</a> - 
                  {% endfor %}
+            
             </li>
         {% endfor %}
     </ul>
 {% endif %}
-Why not 
-{% assign books=site.books %}
-From books: {{ books.tags }}
-From page: {{ page.tags }}
 <!--
     <ul class="tags">
        {%  for tag in books.tags %}

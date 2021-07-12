@@ -1,12 +1,11 @@
 ---
-
 layout: review
 date: 2018-08-28 12:25:13 +0700
 olid: OL7243520M
 title: "Strange Case of Dr Jekyll and Mr Hyde"
 author: Robert Louis Stevenson
 year: 1886
-
+tags: [classics, fiction]
 ---
 
 Although the author shamelessly stole the name idea from [my favourite static site generator](https://jekyllrb.com), I liked the book and I'd love to meet him someday!
