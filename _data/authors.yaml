@@ -1,0 +1,914 @@
+Max Tegmark:
+  name        : "Max Tegmark"
+  bio         : "Max Erik Tegmark is a Swedish-American physicist, cosmologist and machine learning researcher. He is a professor at the Massachusetts Institute of Technology and the scientific director of the Foundational Questions Institute."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://physics.mit.edu/faculty/max-tegmark/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tegmark?lang=en"
+Steven Strogatz:
+  name        : "Steven Strogatz"
+  bio         : "Steven Henry Strogatz is an American mathematician and the Jacob Gould Schurman Professor of Applied Mathematics at Cornell University."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.stevenstrogatz.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/stevenstrogatz"
+
+Richard Dawkins:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Richard Dawkins
+Linus Torvalds:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Linus Torvalds
+Paul Glen:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Paul Glen
+Richard P. Feynman:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Richard P. Feynman
+Michio Kaku:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Michio Kaku
+Jim Al-Khalili:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Jim Al-Khalili
+Werner Heisenberg:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Werner Heisenberg
+David Spiegelhalter:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: David Spiegelhalter
+Carl Sagan:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Carl Sagan
+Sharon Kay Penman:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Sharon Kay Penman
+Stephen Hawking:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Stephen Hawking
+Edwin A. Abbott:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Edwin A. Abbott
+David Hume:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: David Hume
+Fred Hoyle:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Fred Hoyle
+Elizabeth Chadwick:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Elizabeth Chadwick
+Simon Scarrow:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Simon Scarrow
+Ken Follett:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Ken Follett
+Nikesh Shukla:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Nikesh Shukla
+S.J. Parris:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: S.J. Parris
+Ben Kane:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Ben Kane
+Kate Atkinson:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Kate Atkinson
+Robert   Harris:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Robert   Harris
+Philippa Gregory:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Philippa Gregory
+Steve Wozniak:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Steve Wozniak
+Robert   Harris:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Robert   Harris
+Hilary Mantel:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Hilary Mantel
+Catherine Nixey:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Catherine Nixey
+Oscar Wilde:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Oscar Wilde
+Douglas Adams:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Douglas Adams
+Anthony Horowitz:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Anthony Horowitz
+Giles Kristian:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Giles Kristian
+Robert Peston:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Robert Peston
+Margaret George:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Margaret George
+Michael Morpurgo:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Michael Morpurgo
+Clare Mackintosh:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Clare Mackintosh
+Dan Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Dan Brown
+Dan Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Dan Brown
+Douglas Adams:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Douglas Adams
+Robert   Harris:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Robert   Harris
+Dan Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Dan Brown
+James Becker:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: James Becker
+Yves Bonavero:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Yves Bonavero
+C.C. Humphreys:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: C.C. Humphreys
+Robert   Harris:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Robert   Harris
+Douglas Preston:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Douglas Preston
+Charlie Lovett:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Charlie Lovett
+Kate Furnivall:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Kate Furnivall
+Sarah Dunant:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Sarah Dunant
+Valerio Massimo Manfredi:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Valerio Massimo Manfredi
+Dan Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Dan Brown
+David Gibbins:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: David Gibbins
+Madeline Miller:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Madeline Miller
+Andrew Marr:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Andrew Marr
+Heather   Morris:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Heather   Morris
+Christophe Galfard:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Christophe Galfard
+Walter Isaacson:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Walter Isaacson
+Yanis Varoufakis:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Yanis Varoufakis
+Daniel Kahneman:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Daniel Kahneman
+Richard Dawkins:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Richard Dawkins
+Bernard Cornwell:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Bernard Cornwell
+Conn Iggulden:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Conn Iggulden
+Margaret George:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Margaret George
+Ryk Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Ryk Brown
+Simon Scarrow:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Simon Scarrow
+Guillermo del Toro:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Guillermo del Toro
+Ernest Cline:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Ernest Cline
+Robert   Harris:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Robert   Harris
+Mark Haddon:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Mark Haddon
+John Lanchester:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: John Lanchester
+Steve  Robinson:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Steve  Robinson
+John Niven:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: John Niven
+Ian Caldwell:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Ian Caldwell
+Bernard Cornwell:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Bernard Cornwell
+Gillian Flynn:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Gillian Flynn
+Dan Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Dan Brown
+Dan Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Dan Brown
+John O'Farrell:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: John O'Farrell
+Valerio Massimo Manfredi:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Valerio Massimo Manfredi
+Dan Brown:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Dan Brown
+Elizabeth Fremantle:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: Elizabeth Fremantle
+George Orwell:
+  avatar: /assets/images/bio-photo.jpg
+  bio: Bio Coming soon
+  links:
+  - icon: fas fa-fw fa-link
+    label: Website
+    url: https://site.edu/
+  - icon: fab fa-fw fa-twitter-square
+    label: Twitter
+    url: https://twitter.com/
+  name: George Orwell

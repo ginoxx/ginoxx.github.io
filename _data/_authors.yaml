@@ -1,0 +1,26 @@
+Max Tegmark:
+  name        : "Max Tegmark"
+  bio         : "Max Erik Tegmark is a Swedish-American physicist, cosmologist and machine learning researcher. He is a professor at the Massachusetts Institute of Technology and the scientific director of the Foundational Questions Institute."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://physics.mit.edu/faculty/max-tegmark/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tegmark?lang=en"
+
+
+     
+
+Steven Strogatz:
+  name        : "Steven Strogatz"
+  bio         : "Steven Henry Strogatz is an American mathematician and the Jacob Gould Schurman Professor of Applied Mathematics at Cornell University."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.stevenstrogatz.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/stevenstrogatz"

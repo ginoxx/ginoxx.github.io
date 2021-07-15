@@ -7,64 +7,112 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Gino's Books
-email: hello@ginosbooks.com
+subtitle: "For the promotion of science, technology and education."
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Gino's Books reviews and thoughts for personal and mostly private use.\n
-  And a little bit of anything else that happens.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ginoxx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: 
+  Gino's Books list (and thoughts)
+  Where did I read that thing?
+  
+twitter_username: username
+github_username: username
+minimal_mistakes_skin: neon
+search: true
 
 # Build settings
-theme: minima
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-#theme: jekyll-theme-hacker
-#theme: jekyll-theme-architect
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
-# Collections
-collections:
-    books:
-        tags: true
-        output: true
-        permalink: /:collection/:title/
-        
-    tags:
-        output: true
-        permalink: tags/:path/
+include:
+  - _pages
 
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules/
+#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "ginox"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Gino's Books list (and ramblings)."
+  location: "London, UK"
+  linkedin: gino-pelliccia-13637025
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ginoxx.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ginox01"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ginoxx"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/resume-coming-soon.pdf"
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
