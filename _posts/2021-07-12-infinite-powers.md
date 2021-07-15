@@ -8,6 +8,13 @@ stitle: "The story of Calculus, the language of the Universe"
 author: Steven Strogatz
 year: 2019
 cover: "9781786492975.jpg"
+people: 
+    - Pythagoras
+    - Newton
+    - Leibniz
+    - Fermat
+    - Descartes
+    - Feynmann
 tags: 
     - calculus
 

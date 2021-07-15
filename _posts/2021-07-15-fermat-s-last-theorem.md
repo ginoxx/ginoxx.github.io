@@ -11,6 +11,7 @@ year: 2011
 people: 
      - Pythagoras
      - Andrew Wiles
+     - Fermat
      
 tags: 
     - calculus

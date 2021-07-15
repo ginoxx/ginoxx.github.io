@@ -1,3 +1,14 @@
+Simon Singh:
+  name        : "Simon Singh"
+  bio         : "Simon Lehna Singh, MBE is a British popular science author, theoretical and particle physicist whose works largely contain a strong mathematical element."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://simonsingh.net"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SLSingh"
 Max Tegmark:
   name        : "Max Tegmark"
   bio         : "Max Erik Tegmark is a Swedish-American physicist, cosmologist and machine learning researcher. He is a professor at the Massachusetts Institute of Technology and the scientific director of the Foundational Questions Institute."
