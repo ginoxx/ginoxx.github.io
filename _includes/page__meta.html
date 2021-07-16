@@ -1,18 +1,19 @@
 {% assign document = post | default: page %}
-{% if document.read_time or document.show_date %}
+{% if document.read_time or document.show_date or document.stitle or document.author %}
   <p class="page__meta">
-    <!-- gino start book info -- better beside cover!!
+    <!-- gino start book info -- !!  -->
     
       {% if document.stitle %}
       {% assign stitle = document.stitle %}
+      
       <span class="page__meta-date">
-        <i class="far fa-fw fa-book" aria-hidden="true"></i>
+        <i class="far fa-fw fa-sticky-note" aria-hidden="true"></i>
         <em>{{stitle}}</em>
       </span>
-    
-    {% endif %}
     </br>
-    -->
+    {% endif %}
+    
+   
     <!-- gino start explicit author-->
     {% if document.author %}
       {% assign bauthor = document.author %}
@@ -20,11 +21,20 @@
         <i class="far fa-fw fa-user" aria-hidden="true"></i>
         <strong>{{bauthor}}</strong>
       </span>
+      
+    {% endif %}
+
+    {% if document.year %}
+    <span class="page__meta-sep"></span>
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-minus" aria-hidden="true"></i>
+       {{document.year}}
+      </span>
     
     {% endif %}
 
 
-    <span class="page__meta-sep"></span>
+    
     <!-- -->
     {% if document.show_date and document.date %}
       {% assign date = document.date %}

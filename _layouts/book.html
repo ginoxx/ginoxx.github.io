@@ -53,8 +53,9 @@ layout: default
               <figcaption>Cover of {{ page.title }} on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
           {% endif %}
         </figure>
-By {{page.author}}
+
         <!---END -->
+        <hr>
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

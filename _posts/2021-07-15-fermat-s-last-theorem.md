@@ -5,13 +5,13 @@ date: 2021-07-12
 olid: OL19977344M
 isbn: 9781841157917
 title: "Fermat's Last Theorem"
-stitle: ""
+stitle: "The story of a riddle that counfounded the world's greatest mind for 358 years"
 author: Simon Singh
 year: 2011
 people: 
      - Pythagoras
      - Andrew Wiles
-     - Fermat
+     - Pierre de Fermat
      
 tags: 
     - calculus
