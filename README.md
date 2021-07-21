@@ -1,4 +1,4 @@
-# Gino's Books Statis Website with Jekyll and Minimal Mistakes Theme
+# Gino's Books Static Website with Jekyll and Minimal Mistakes Theme
 
 
 
