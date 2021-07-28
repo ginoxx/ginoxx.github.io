@@ -1,3 +1,14 @@
+David Eagleman:
+  name        : "David Eagleman"
+  bio         : "David Eagleman is an American neuroscientist, author, and science communicator. He teaches neuroscience at Stanford University."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://eagleman.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/davideagleman"
 Simon Singh:
   name        : "Simon Singh"
   bio         : "Simon Lehna Singh, MBE is a British popular science author, theoretical and particle physicist whose works largely contain a strong mathematical element."

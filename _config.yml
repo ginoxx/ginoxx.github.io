@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gino's Books
-subtitle: "For the promotion of science, technology and education."
+subtitle: "Gino's Books list and random thoughts"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Gino's Books list (and thoughts)
-  Where did I read that thing?
+  Gino's Books list (and thoughts).
+  For the promotion of science, technology and education.
+  
   
 twitter_username: username
 github_username: username
@@ -61,10 +62,13 @@ plugins:
 author:
   name   : "ginox"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Gino's Books list (and ramblings)."
+  bio    : "For the promotion of science, technology and education"
   location: "London, UK"
   linkedin: gino-pelliccia-13637025
   links:
+    - label: "Goodreads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/40068697-gino-pelliccia"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ginoxx.github.io"

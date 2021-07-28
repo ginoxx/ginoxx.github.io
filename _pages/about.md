@@ -36,6 +36,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Explore"      
 ---
+
+
 <p class="notice--warning"><strong>Dear Future Self</strong><br> When you'll find these files, forgotten in your github account...read below</p>
 I built this site as a fun exercise with a serious goal: not to forget all the reasons and circumnstances why I picked up a certain book at a certain time and started reading it.
 <br>And the thoughts that came with that reading, and what time of my life that was etc...
