@@ -45,14 +45,14 @@ Steven Strogatz:
 
 Richard Dawkins:
   avatar: /assets/images/bio-photo.jpg
-  bio: Bio Coming soon
+  bio: "Richard Dawkins FRS FRSL is a British evolutionary biologist and author. He is an emeritus fellow of New College, Oxford and was Professor for Public Understanding of Science in the University of Oxford from 1995 to 2008. An atheist, he is well known for his criticism of creationism and intelligent design."
   links:
   - icon: fas fa-fw fa-link
     label: Website
-    url: https://site.edu/
+    url: https://richarddawkins.net
   - icon: fab fa-fw fa-twitter-square
     label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/RichardDawkins
   name: Richard Dawkins
 Linus Torvalds:
   avatar: /assets/images/bio-photo.jpg
@@ -681,17 +681,6 @@ Daniel Kahneman:
     label: Twitter
     url: https://twitter.com/
   name: Daniel Kahneman
-Richard Dawkins:
-  avatar: /assets/images/bio-photo.jpg
-  bio: Bio Coming soon
-  links:
-  - icon: fas fa-fw fa-link
-    label: Website
-    url: https://site.edu/
-  - icon: fab fa-fw fa-twitter-square
-    label: Twitter
-    url: https://twitter.com/
-  name: Richard Dawkins
 Bernard Cornwell:
   avatar: /assets/images/bio-photo.jpg
   bio: Bio Coming soon
