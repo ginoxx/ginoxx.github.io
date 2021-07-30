@@ -10,6 +10,10 @@ year: 1985
 toc: true
 toc_label: "What's in:"
 toc_sticky: "true"
+
+tags: 
+    - biographies
+    - physics
 ---
 
 ## When I read it
