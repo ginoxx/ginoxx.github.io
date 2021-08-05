@@ -5,7 +5,7 @@ date: 2021-07-25
 olid: OL19977344M
 isbn: 9781841157917
 title: "Fermat's Last Theorem"
-stitle: "The story of a riddle that counfounded the world's greatest minds for 358 years"
+stitle: "The story of a riddle that confounded the world's greatest minds for 358 years"
 author: Simon Singh
 year: 2011
 people: 
@@ -28,6 +28,7 @@ toc_sticky: "true"
 last_modified_at: 2021-08-04
 
 ---
+Cubum autem in duos cubos, aut quadratoquadratum in duos quadratoquadratos, et generaliter nullam in infinitum ultra quadratum potestatem in duos ejusdem nominis fas est dividere: cujus rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.
 
 ## When I read it
 While tinkering with popular physics books (summer 2021), I realised I did not understand much about the maths they talked about.
