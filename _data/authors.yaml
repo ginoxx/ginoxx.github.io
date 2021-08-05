@@ -1,3 +1,17 @@
+Leonard Mlodinow:
+  name        : "Leonard Mlodinow"
+  bio         : "Leonard Mlodinow is an American theoretical physicist and mathematician, screenwriter (Star Trek TNG) and author"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://leonardmlodinow.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lmlodinow"
+    - label: "Confessions of a Star Trek Writer"
+      icon: "fab fas fa-fw fa-link"
+      url: "https://www.newsweek.com/confessions-star-trek-writer-77247"
 David Eagleman:
   name        : "David Eagleman"
   bio         : "David Eagleman is an American neuroscientist, author, and science communicator. He teaches neuroscience at Stanford University."

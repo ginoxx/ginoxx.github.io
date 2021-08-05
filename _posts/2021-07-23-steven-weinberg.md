@@ -1,15 +1,15 @@
 ---
-title: "Goodbye Professor Weinberg"
+title: "[Post] Goodbye Professor Weinberg"
 categories:
   - People
 tags:
   - physics
-
+kind: post
 ---
 
-...and thanks for the ride!
-
 ## Steven Weinberg (1933 -2021)
+
+Prof Weinberg, goodbye ...and thanks for the ride!
 
 <p class="notice--warning"><strong>Dear Future Self</strong><br>Bump the book up in the reading list. Next time you come here make sure you have read it and written some notes!</p>
 
