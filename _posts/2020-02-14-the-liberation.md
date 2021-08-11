@@ -6,4 +6,6 @@ title: The Liberation
 stitle: 
 author: Kate Furnivall
 year: 2016
+category:
+    - Historical Fiction
 ---

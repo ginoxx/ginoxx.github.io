@@ -6,4 +6,6 @@ title: Brothers in Blood
 stitle: Eagle, #13
 author: Simon Scarrow
 year: 2014
+category:
+    - Historical Fiction
 ---

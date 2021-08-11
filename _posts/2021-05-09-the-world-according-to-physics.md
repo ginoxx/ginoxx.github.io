@@ -6,9 +6,9 @@ title: The World According to Physics
 stitle: 
 author: Jim Al-Khalili
 year: 2020
+category:
+  - Popular Science
 tags:
-  - books
-  - popular-science
   - physics
 ---
 

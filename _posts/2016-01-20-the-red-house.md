@@ -6,4 +6,6 @@ title: The Red House
 stitle: 
 author: Mark Haddon
 year: 2012
+category:
+    - Other Fiction
 ---

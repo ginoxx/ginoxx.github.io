@@ -6,4 +6,8 @@ title: The Falcon of Sparta
 stitle: 
 author: Conn Iggulden
 year: 2018
+category:
+    - Historical Fiction
+tags:
+    - Greek History
 ---

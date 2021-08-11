@@ -6,4 +6,9 @@ title: The Darkening Age
 stitle: The Christian Destruction of the Classical World
 author: Catherine Nixey
 year: 2017
+category:
+    - Popular Science
+tags:
+    - Religion
+    - History
 ---

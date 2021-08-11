@@ -1,9 +1,12 @@
 ---
 layout: book
 date: 2020-03-23
-isbn: 
+isbn: 0434003484
 title: The Hitchhikers Guide to the Galaxy 
-stitle: Hitchhiker's Guide to the Galaxy, #1
+stitle: A Trilogy in Five Parts
 author: Douglas Adams
 year: 1979
+category:
+    - Sci-Fi
+    - Popular Science
 ---

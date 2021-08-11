@@ -6,4 +6,6 @@ title: Fools and Mortals
 stitle: 
 author: Bernard Cornwell
 year: 2017
+category:
+    - Other Fiction
 ---

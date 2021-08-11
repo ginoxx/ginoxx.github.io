@@ -6,4 +6,6 @@ title: Templar Silks
 stitle: William Marshal #6
 author: Elizabeth Chadwick
 year: 2018
+category:
+    - Historical Fiction
 ---

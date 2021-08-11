@@ -6,4 +6,6 @@ title: A Brief History of Time
 stitle: 
 author: Stephen Hawking
 year: 1988
+category:
+    - Popular Science
 ---

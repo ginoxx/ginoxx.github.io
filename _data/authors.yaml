@@ -1,3 +1,14 @@
+Lawrence Krauss:
+  name        : "Lawrence Krauss"
+  bio         : "Laurence Krauss is an American-Canadian theoretical physicist and cosmologist who previously taught at Arizona State University, Yale University, and Case Western Reserve University. He founded ASU's Origins Project, now called ASU Interplanetary Initiative, to investigate fundamental questions about the universe and served as the project's director"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.lawrencemkrauss.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/LKrauss1"
 Leonard Mlodinow:
   name        : "Leonard Mlodinow"
   bio         : "Leonard Mlodinow is an American theoretical physicist and mathematician, screenwriter (Star Trek TNG) and author"

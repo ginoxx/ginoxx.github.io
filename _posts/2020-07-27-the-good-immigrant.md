@@ -6,4 +6,6 @@ title: The Good Immigrant
 stitle: 
 author: Nikesh Shukla
 year: 2016
+category:
+    - Current Affairs
 ---

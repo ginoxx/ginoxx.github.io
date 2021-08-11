@@ -6,4 +6,7 @@ title: Ready Player One
 stitle: Ready Player One, #1
 author: Ernest Cline
 year: 2011
+category:
+    - Other Fiction
+    - Sci-Fi
 ---

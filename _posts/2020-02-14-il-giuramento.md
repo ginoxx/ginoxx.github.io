@@ -6,4 +6,6 @@ title: Il giuramento
 stitle: Il mio nome è Nessuno, #1
 author: Valerio Massimo Manfredi
 year: 2012
+category:
+    - Historical Fiction
 ---

@@ -10,7 +10,9 @@ year: 1985
 toc: true
 toc_label: "What's in:"
 toc_sticky: "true"
-
+category:
+    - Biography
+    - Popular Science
 tags: 
     - biographies
     - physics

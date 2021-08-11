@@ -6,4 +6,6 @@ title: Steve Jobs
 stitle: 
 author: Walter Isaacson
 year: 2011
+category:
+    - Biography
 ---

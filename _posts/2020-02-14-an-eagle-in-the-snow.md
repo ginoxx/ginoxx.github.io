@@ -6,4 +6,6 @@ title: An Eagle in the Snow
 stitle: 
 author: Michael Morpurgo
 year: 2015
+category:
+    - Historical Fiction
 ---

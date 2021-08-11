@@ -6,4 +6,6 @@ title: Young Bloods
 stitle: Revolution, #1
 author: Simon Scarrow
 year: 2006
+category:
+    - Historical Fiction
 ---

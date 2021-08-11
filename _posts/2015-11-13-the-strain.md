@@ -6,4 +6,6 @@ title: The Strain
 stitle: The Strain Trilogy, #1
 author: Guillermo del Toro
 year: 2009
+category:
+    - Other Fiction
 ---

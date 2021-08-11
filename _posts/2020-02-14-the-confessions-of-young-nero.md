@@ -6,4 +6,6 @@ title: The Confessions of Young Nero
 stitle: Nero, #1
 author: Margaret George
 year: 2017
+category:
+    - Historical Fiction
 ---

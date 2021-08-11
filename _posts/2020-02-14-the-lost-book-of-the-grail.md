@@ -6,4 +6,7 @@ title: The Lost Book of the Grail
 stitle: 
 author: Charlie Lovett
 year: 2017
+category:
+    - Historical Fiction
+    - Other Fiction
 ---

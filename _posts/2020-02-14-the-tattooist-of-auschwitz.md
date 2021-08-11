@@ -6,4 +6,8 @@ title: The Tattooist of Auschwitz
 stitle: The Tattooist of Auschwitz, #1
 author: Heather   Morris
 year: 2018
+category:
+    - Historical Fiction
+tags:
+    - WW2
 ---

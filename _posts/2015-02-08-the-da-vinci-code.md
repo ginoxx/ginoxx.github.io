@@ -6,4 +6,7 @@ title: The Da Vinci Code
 stitle: Robert Langdon, #2
 author: Dan Brown
 year: 2003
+category:
+    - Other Fiction
+    - Historical Fiction
 ---

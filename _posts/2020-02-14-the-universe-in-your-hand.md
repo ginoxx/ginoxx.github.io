@@ -6,4 +6,6 @@ title: The Universe in Your Hand
 stitle: A Journey Through Space, Time, and Beyond
 author: Christophe Galfard
 year: 2015
+category:
+    - Popular Science
 ---

@@ -8,6 +8,8 @@ cover: selfish-gene.jpg
 stitle: 40th Anniversary Edition (2016)
 author: Richard Dawkins
 year: 1976
+category:
+    - Popular Science
 tags: 
     - evolution
     - biology

@@ -6,4 +6,6 @@ title: The Picture of Dorian Gray
 stitle: 
 author: Oscar Wilde
 year: 1890
+category:
+    - Other Fiction
 ---

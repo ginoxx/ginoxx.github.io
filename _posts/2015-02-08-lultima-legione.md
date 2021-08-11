@@ -6,4 +6,6 @@ title: Lultima legione
 stitle: 
 author: Valerio Massimo Manfredi
 year: 2002
+category:
+    - Historical Fiction
 ---

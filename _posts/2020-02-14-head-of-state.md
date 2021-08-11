@@ -6,4 +6,7 @@ title: Head of State
 stitle: The Bestselling Brexit Thriller
 author: Andrew Marr
 year: 2014
+category:
+    - Current Affairs
+    - Other Fiction
 ---

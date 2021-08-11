@@ -6,4 +6,7 @@ title: The Black Cloud
 stitle: 
 author: Fred Hoyle
 year: 1957
+category:
+    - Popular Science
+    - Sci-Fi
 ---

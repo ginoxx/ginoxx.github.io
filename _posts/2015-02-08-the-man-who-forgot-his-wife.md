@@ -6,4 +6,6 @@ title: The Man Who Forgot His Wife
 stitle: 
 author: John O'Farrell
 year: 2012
+category:
+    - Other Fiction
 ---

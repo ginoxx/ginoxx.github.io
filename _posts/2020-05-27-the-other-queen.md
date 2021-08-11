@@ -6,4 +6,6 @@ title: The Other Queen
 stitle: 
 author: Philippa Gregory
 year: 2008
+category:
+    - Historical Fiction
 ---

@@ -6,4 +6,6 @@ title: The Last Queen of England
 stitle: Jefferson Tayte Genealogical Mystery, #3
 author: Steve  Robinson
 year: 2012
+category:
+    - Historical Fiction
 ---

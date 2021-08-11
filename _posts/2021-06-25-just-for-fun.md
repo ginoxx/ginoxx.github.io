@@ -6,4 +6,7 @@ title: Just for Fun
 stitle: The Story of an Accidental Revolutionary
 author: Linus Torvalds
 year: 2001
+category:
+    - Biography
+    - Technology
 ---

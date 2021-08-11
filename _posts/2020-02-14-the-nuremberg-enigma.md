@@ -6,4 +6,8 @@ title: The Nuremberg Enigma
 stitle: 
 author: Yves Bonavero
 year: 
+category:
+    - Historical Fiction
+tags:
+    - WW2
 ---

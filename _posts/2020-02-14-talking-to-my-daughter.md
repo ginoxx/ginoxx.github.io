@@ -6,4 +6,9 @@ title: Talking to My Daughter
 stitle: A Brief History of Capitalism
 author: Yanis Varoufakis
 year: 2013
+category:
+    - Popular Science
+    - Current Affairs
+tags:
+    - Economy
 ---

@@ -6,4 +6,6 @@ title: The Second Coming
 stitle: 
 author: John Niven
 year: 2011
+category:
+    - Other Fiction
 ---

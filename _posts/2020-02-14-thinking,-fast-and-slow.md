@@ -6,4 +6,10 @@ title: Thinking, Fast and Slow
 stitle: 
 author: Daniel Kahneman
 year: 2011
+category:
+    - Popular Science
+tags:
+    - thinking
+    - brain
+    - neuroscience
 ---

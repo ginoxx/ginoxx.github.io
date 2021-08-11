@@ -6,4 +6,6 @@ title: The Pillars of the Earth
 stitle: Kingsbridge, #1
 author: Ken Follett
 year: 1989
+category:
+    - Historical Fiction
 ---

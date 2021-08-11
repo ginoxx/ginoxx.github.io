@@ -15,6 +15,8 @@ people:
     - Fermat
     - Descartes
     - Feynmann
+category:
+    - Popular Science
 tags: 
     - calculus
 

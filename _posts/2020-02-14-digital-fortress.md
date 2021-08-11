@@ -6,4 +6,6 @@ title: Digital Fortress
 stitle: 
 author: Dan Brown
 year: 1998
+category:
+    - Other Fiction
 ---

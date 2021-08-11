@@ -6,4 +6,10 @@ title: The God Delusion
 stitle: 
 author: Richard Dawkins
 year: 2006
+category:
+    - Popular Science
+    - Religion
+tags:
+    - Religion
+    - Biology
 ---

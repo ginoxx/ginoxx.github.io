@@ -7,14 +7,13 @@ title: "Our Mathematical Universe"
 author: Max Tegmark
 year: 2014
 tags: 
-    - science
     - multiverse
     - physics
-    - popular science
     - anthropic principle
     - inflation
 
-
+category:
+    - Popular Science
 ---
 
 Interesting read.

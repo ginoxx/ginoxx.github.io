@@ -15,7 +15,8 @@ people:
      - Shimura
      - Takyiama
      - Galois
-     
+category:
+    - Popular Science
 tags: 
     - calculus
     - maths

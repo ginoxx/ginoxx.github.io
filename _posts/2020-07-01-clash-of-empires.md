@@ -6,4 +6,6 @@ title: Clash of Empires
 stitle: Clash of Empires #1
 author: Ben Kane
 year: 2018
+category:
+    - Historical Fiction
 ---

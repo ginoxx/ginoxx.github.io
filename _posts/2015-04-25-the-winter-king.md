@@ -6,4 +6,6 @@ title: The Winter King
 stitle: The Warlord Chronicles #1
 author: Bernard Cornwell
 year: 1995
+category:
+    - Historical Fiction
 ---
