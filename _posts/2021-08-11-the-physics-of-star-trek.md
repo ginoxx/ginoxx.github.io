@@ -27,8 +27,8 @@ hp: 1
 #feature: "/assets/covers/th-9781786492975.jpg"
 #thumb: "/assets/covers/th-9781786492975.jpg"   #keep it square 200x200 px is good
 
-header:
-    teaser: "assets/covers/9781786492975.jpg "
+#header:
+#    teaser: "assets/covers/9781786492975.jpg "
 ---
 When it all fits together... pt. 2
 
