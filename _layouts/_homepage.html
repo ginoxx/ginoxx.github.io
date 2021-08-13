@@ -1,24 +1,16 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: homepage
 author_profile: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: "/assets/images/collage-m3.jpg"
-  actions:
-    - label: "<i class='fas fa-download'></i> See all"
-      url: "/all"
-excerpt: >
-      Hi!
+  image: /assets/images/collage-m3.jpg
+
 
 feature_row:
   - image_path: "http://covers.openlibrary.org/b/olid/OL19977344M-L.jpg?default=false"
     alt: "Fermat's Last Theorem"
     title: "Fermat's Last Theorem"
     excerpt: "The story of a riddle that counfounded the world's greatest minds for 358 years"
-    url: "/popular science/fermat-s-last-theorem/"
+    url: "fermat-s-last-theorem/"
     btn_class: "btn--primary"
     btn_label: "Go"
   - image_path: "http://covers.openlibrary.org/b/isbn/9781846685323-L.jpg?default=false"
@@ -32,10 +24,26 @@ feature_row:
     alt: "Infinite Powers"
     title: "Infinite Powers"
     excerpt: "The story of Calculus, the language of the Universe"
-    url: "popular science/infinite-powers/"
+    url: "/infinite-powers/"
     btn_class: "btn--primary"
-    btn_label: "Explore"
-    
-# entries_layout: grid
+    btn_label: "Explore"     
 ---
+
+{% include feature_row %}
+
+aaaaaaaaaaaaaaaaaaaaaa
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Books" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts  %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
 

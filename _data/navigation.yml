@@ -1,9 +1,11 @@
 main:
   - title: "All Books"
-    url: /posts/
+    url: /all/
   - title: "By Tag"
     url: /tags/
   - title: "By Category"
     url: /categories/
+  - title: "By Year"
+    url: /posts/
   - title: "About"
     url: /about/

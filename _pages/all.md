@@ -1,24 +1,18 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: homepage
+title: "Gino's Bookshelf"
 author_profile: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/assets/images/collage-m3.jpg"
-  actions:
-    - label: "<i class='fas fa-download'></i> See all"
-      url: "/all"
-excerpt: >
-      Hi!
+  overlay_image: /assets/images/collage-m3.jpg
+  
+  
 
 feature_row:
   - image_path: "http://covers.openlibrary.org/b/olid/OL19977344M-L.jpg?default=false"
     alt: "Fermat's Last Theorem"
     title: "Fermat's Last Theorem"
     excerpt: "The story of a riddle that counfounded the world's greatest minds for 358 years"
-    url: "/popular science/fermat-s-last-theorem/"
+    url: "fermat-s-last-theorem/"
     btn_class: "btn--primary"
     btn_label: "Go"
   - image_path: "http://covers.openlibrary.org/b/isbn/9781846685323-L.jpg?default=false"
@@ -32,10 +26,15 @@ feature_row:
     alt: "Infinite Powers"
     title: "Infinite Powers"
     excerpt: "The story of Calculus, the language of the Universe"
-    url: "popular science/infinite-powers/"
+    url: "/infinite-powers/"
     btn_class: "btn--primary"
-    btn_label: "Explore"
-    
-# entries_layout: grid
+    btn_label: "Explore"      
 ---
 
+
+<p class="notice--warning"><strong>Dear Future Self</strong><br> When you'll find these files, forgotten in your github account...read below</p>
+I built this site as a fun exercise with a serious goal: not to forget all the reasons and circumnstances why I picked up a certain book at a certain time and started reading it.
+<br>And the thoughts that came with that reading, and what time of my life that was etc...
+
+<p class="notice--warning"><strong>One of life's regrets</strong><br>All the Maths missed at school (or the Maths they don't teach you?). <br>Never again.</p>
+{% include feature_row %}

@@ -9,7 +9,7 @@ year: 2011
 category:
     - Historical Fiction
 tags:
-    - Greek history
+    - Greek History
 ---
 
 Read again!

@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gino's Books
-subtitle: "Gino's Books list and random thoughts"
+title: Gino's Bookshelf
+subtitle: "Books, books and random thoughts along the years"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Gino's Books list (and thoughts).
   For the promotion of science, technology and education.
   
   
-twitter_username: username
-github_username: username
+twitter_username: ginox01
+github_username: ginoxx
 minimal_mistakes_skin: neon
 search: true
 
@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 8 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /all/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
