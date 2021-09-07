@@ -1,6 +1,33 @@
+Steven Weinberg:
+  name        : Steven Weinberg
+  bio         : "Steven Weinberg was an American theoretical physicist and Nobel laureate in physics for his contributions with Abdus Salam and Sheldon Glashow to the unification of the weak force and electromagnetic interaction between elementary particles."
+  avatar      : "/assets/images/bio-photo.jpg"
+  
+Daniel Dennett:
+  name        : "Daniel Dennett"
+  bio         : "Daniel Clement Dennett III is an American philosopher, writer, and cognitive scientist whose research centers on the philosophy of mind, philosophy of science, and philosophy of biology, particularly as those fields relate to evolutionary biology and cognitive science."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ase.tufts.edu/cogstud/dennett/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/danieldennett"
+Carlo Rovelli:
+  name        : "Carlo Rovelli"
+  bio         : "Carlo Rovelli is an Italian theoretical physicist and writer who has worked in Italy, the United States and, since 2000, in France. He works mainly in the field of quantum gravity and is a founder of loop quantum gravity theory. He has also worked in the history and philosophy of science."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.cpt.univ-mrs.fr/~rovelli/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/carlorovelli?lang=en"
 Lawrence Krauss:
   name        : "Lawrence Krauss"
-  bio         : "Laurence Krauss is an American-Canadian theoretical physicist and cosmologist who previously taught at Arizona State University, Yale University, and Case Western Reserve University. He founded ASU's Origins Project, now called ASU Interplanetary Initiative, to investigate fundamental questions about the universe and served as the project's director"
+  bio         : "Laurence Krauss is an American-Canadian theoretical physicist and cosmologist who previously taught at Arizona State University, Yale University, and Case Western Reserve University. He founded ASU's Origins Project, now called ASU Interplanetary Initiative, to investigate fundamental questions about the universe and served as the project's director."
   avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Website"
@@ -114,14 +141,14 @@ Richard P. Feynman:
   name: Richard P. Feynman
 Michio Kaku:
   avatar: /assets/images/bio-photo.jpg
-  bio: Bio Coming soon
+  bio: "Michio Kaku is an American theoretical physicist, futurist, and popularizer of science. He is a professor of theoretical physics in the City College of New York and CUNY Graduate Center."
   links:
   - icon: fas fa-fw fa-link
     label: Website
-    url: https://site.edu/
+    url: "https://mkaku.org"
   - icon: fab fa-fw fa-twitter-square
     label: Twitter
-    url: https://twitter.com/
+    url: "https://twitter.com/michiokaku"
   name: Michio Kaku
 Jim Al-Khalili:
   avatar: /assets/images/bio-photo.jpg

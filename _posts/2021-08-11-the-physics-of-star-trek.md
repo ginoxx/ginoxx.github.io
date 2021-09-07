@@ -11,7 +11,7 @@ year: 1996
 category:
     - Popular Science
 tags: 
-    - star trek
+    - Star Trek
     - teleportation
     - anti-matter
 
