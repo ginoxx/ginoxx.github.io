@@ -9,6 +9,7 @@ stitle: Evolution and the Meanings of Life
 author: Daniel Dennett
 year: 1995
 category:
+    - Philosophy
     - Popular Science
 tags: 
     - Evolution
@@ -48,6 +49,7 @@ Time to get educated on the subject of evolution by natural selection, its inner
 
 ### Not intelligent design
 Small mechanical, accidental, <strong>algorithmic</strong> changes give the appearance of intelligent and/or teleological design.
+Design = chance + necessity
 #### Cranes and Skyhooks
 #### Tree of Life
 ### Conway's Game of Life
@@ -59,7 +61,7 @@ The changes in human evolution through very little time (in evolutionary terms) 
 As counterpart of the genes in cultural evolution of humans.
 Def: a unit of cultural transmission or a unit of "imitation"
 ### Dennett's take on Penrose's "The Emperor's Mind
-coming soon
+Mind as a pure algorithmic process. On AI
 
 
 
@@ -78,3 +80,5 @@ The Recursive Universe: Cosmic Complexity and the Limits of Scientific Knowledge
 Dennett's book on consciousness (Consciousness Explained).
 
 Dennett is one of my new heroes.
+
+AI and Mind
