@@ -1,3 +1,25 @@
+Hannah Fry:
+  name        : "Hannah Fry"
+  bio         : "Hannah Fry is a Professor in the Mathematics of Cities. She is a mathematician, a best-selling author, an award winning science presenter and the host of numerous popular podcasts and television shows. "
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://hannahfry.co.uk/about-hannah/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fryrsquared"
+Melanie Mitchell:
+  name        : "Melanie Mitchell"
+  bio         : "Melanie Mitchell is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://melaniemitchell.me/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MelMitchell1"
 Marcus Du Sautoy:
   name        : "Marcus Du Sautoy"
   bio         : "Marcus du Sautoy is a British mathematician and author of popular science books. Marcus De Saytoy is the Simonyi Professor of the Public Understanding of Science at Oxford University. His passion lies in teaching difficult mathematical concepts and making them palatable for the general public."
