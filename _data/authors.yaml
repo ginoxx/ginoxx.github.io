@@ -1,3 +1,14 @@
+Graham Farmelo:
+  name        : "Graham Farmelo"
+  bio         : "Graham  Farmelo is a biographer and science writer, a Fellow at Churchill College, University of Cambridge, U.K., and an Adjunct Professor of Physics at Northeastern University, Boston, U.S.A."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://grahamfarmelo.com/the-strangest-man/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/grahamfarmelo?lang=en"
 Hannah Fry:
   name        : "Hannah Fry"
   bio         : "Hannah Fry is a Professor in the Mathematics of Cities. She is a mathematician, a best-selling author, an award winning science presenter and the host of numerous popular podcasts and television shows. "
